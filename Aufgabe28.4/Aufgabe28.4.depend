@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1705272859 source:c:\users\awale\desktop\aufgabe28.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
