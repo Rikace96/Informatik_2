@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714200275 source:c:\users\awale\documents\informatik_2\aufgabe28.6_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
