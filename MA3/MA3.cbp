@@ -35,7 +35,7 @@
 		</Compiler>
 		<Unit filename="include/bildschi.h" />
 		<Unit filename="include/fehler.h" />
-		<Unit filename="include/muturung.h" />
+		<Unit filename="include/muturing.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -45,7 +45,7 @@
 		<Unit filename="src/fehler.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="src/muturung.c">
+		<Unit filename="src/muturing.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

@@ -13,6 +13,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -22,6 +23,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -31,7 +33,19 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="include/bildschi.h" />
+		<Unit filename="include/doturing.h" />
+		<Unit filename="include/fehler.h" />
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/bildschi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/doturing.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/fehler.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
