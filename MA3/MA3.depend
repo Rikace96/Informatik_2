@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1718449118 source:c:\users\awale\documents\informatik_2\ma3\src\fehler.c
+	<stdio.h>
+	<string.h>
+	"fehler.h"
+
+1718449124 c:\users\awale\documents\informatik_2\ma3\include\fehler.h
+
+1718448796 source:c:\users\awale\documents\informatik_2\ma3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"muturing.h"
+	"fehler.h"
+	"bildschi.h"
+
+1718449776 c:\users\awale\documents\informatik_2\ma3\include\muturing.h
+
+1718448959 c:\users\awale\documents\informatik_2\ma3\include\bildschi.h
+	"muturing.h"
+
+1718448952 source:c:\users\awale\documents\informatik_2\ma3\src\bildschi.c
+	<stdio.h>
+	"muturing.h"
+	"bildschi.h"
+
+1718450927 source:c:\users\awale\documents\informatik_2\ma3\src\muturing.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"muturing.h"
+	"fehler.h"
+

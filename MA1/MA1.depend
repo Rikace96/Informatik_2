@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1718446341 source:c:\users\awale\documents\informatik_2\ma1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"adturing.h"
+	"fehler.h"
+	"bildschi.h"
+
+1718446326 c:\users\awale\documents\informatik_2\ma1\include\adturing.h
+
+1718446193 c:\users\awale\documents\informatik_2\ma1\include\fehler.h
+
+1718446228 c:\users\awale\documents\informatik_2\ma1\include\bildschi.h
+	"adturing.h"
+
+1718446146 source:c:\users\awale\documents\informatik_2\ma1\src\adturing.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"adturing.h"
+	"fehler.h"
+
+1718446220 source:c:\users\awale\documents\informatik_2\ma1\src\bildschi.c
+	<stdio.h>
+	"adturing.h"
+	"bildschi.h"
+
+1718446188 source:c:\users\awale\documents\informatik_2\ma1\src\fehler.c
+	<stdio.h>
+	"fehler.h"
+

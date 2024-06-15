@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1718448590 source:c:\users\awale\documents\informatik_2\ma2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"doturing.h"
+	"fehler.h"
+	"bildschi.h"
+
+1718448604 c:\users\awale\documents\informatik_2\ma2\include\doturing.h
+
+1718448439 c:\users\awale\documents\informatik_2\ma2\include\fehler.h
+
+1718448449 c:\users\awale\documents\informatik_2\ma2\include\bildschi.h
+	"doturing.h"
+
+1718448445 source:c:\users\awale\documents\informatik_2\ma2\src\bildschi.c
+	<stdio.h>
+	"doturing.h"
+	"bildschi.h"
+
+1718448595 source:c:\users\awale\documents\informatik_2\ma2\src\doturing.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"doturing.h"
+	"fehler.h"
+
+1718448432 source:c:\users\awale\documents\informatik_2\ma2\src\fehler.c
+	<stdio.h>
+	<string.h>
+	"fehler.h"
+
